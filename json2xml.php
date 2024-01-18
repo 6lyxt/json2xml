@@ -1,3 +1,4 @@
+<?
 /**
  * Class JsonToXmlParser
  * @author 6lyxt
